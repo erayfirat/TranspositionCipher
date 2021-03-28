@@ -1,4 +1,4 @@
-# TranspositionCipher
+# Transposition Cipher
 
 I implemented a very old and basic cryptography algorithm. 
 This algorithm was used by the German military in World War 1. 
