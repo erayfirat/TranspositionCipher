@@ -10,5 +10,7 @@ It was also used as an emergency cipher for the German Army and Navy. Until the 
 "encryption" method take a String message and a key (also a String) and mix the order of letters. 
 The messageis written out in rows of a fixed length, and then read out again column by column, and the columns are chosen in some scrambled order. 
 Both the length of the rows and the permutation of the columns are usually defined by a keyword.
+I use dictionary to encrypt text.
 
 "decryption" method opposite of encryption method. I takes encrypted text to plain text.
+I use matrice to get plain text. 
